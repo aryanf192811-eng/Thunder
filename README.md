@@ -5,8 +5,8 @@ Welcome to the Thunder Course repository! This repo tracks my progress as I comp
 ## Course Progress
 
 <!-- PROGRESS_START -->
-**1** out of **29** lessons completed (3%)
-![Progress](https://geps.dev/progress/3)
+**29** out of **29** lessons completed (100%)
+![Progress](https://geps.dev/progress/100)
 <!-- PROGRESS_END -->
 
 ## Structure
