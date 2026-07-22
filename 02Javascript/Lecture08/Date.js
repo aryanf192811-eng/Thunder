@@ -36,3 +36,6 @@
 // const myDate = new Date(2026, 8, 4, 6, 20, 11, 125);
 
 // console.log(myDate);
+
+// NOTES FROM LECTURE
+// never trust user data , USE server side timestamp to avoid fraud , as users can manipulate their system timestamps easily.
