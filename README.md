@@ -1,0 +1,13 @@
+# Thunder Course
+
+Welcome to the Thunder Course repository! This repo tracks my progress as I complete the coursework.
+
+## Course Progress
+
+<!-- PROGRESS_START -->
+**1** out of **100** lessons completed (1%)
+![Progress](https://geps.dev/progress/1)
+<!-- PROGRESS_END -->
+
+## Structure
+- Each `.js` file represents a completed lesson.
