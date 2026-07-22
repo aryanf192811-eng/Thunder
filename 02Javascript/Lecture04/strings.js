@@ -1,29 +1,63 @@
-// Lecture 04: Strings and String Methods
+// let str1 = "Rohit Negi";
+// let day = 19;
+// let str2 = 'Sonu Rajan';
+// let str3 = `Bhavesh ji ${day}
+// zindabad`;
 
-let greeting = "Hello";
-let target = "World";
+// console.log(str3);
 
-// Concatenation
-let message = greeting + " " + target;
-console.log(message);
+// let str = "Hello Ji";
+// let str2 = "Rohit Negi";
 
-// Template Literals (ES6)
-let modernMessage = `${greeting} ${target}!`;
-console.log(modernMessage);
+// console.log(str+" " +str2);
 
-// Common String Methods
-let sentence = "The quick brown fox jumps over the lazy dog.";
+// console.log(str[1]);
 
-console.log("Length of sentence:", sentence.length);
-console.log("To Uppercase:", sentence.toUpperCase());
-console.log("Contains 'fox'?", sentence.includes("fox"));
-console.log("Index of 'brown':", sentence.indexOf("brown"));
-console.log("Slice first 9 characters:", sentence.slice(0, 9));
+// for(let i=0;i<str.length;i++){
+//     console.log(str[i]);
+// }
 
-// Splitting a string into an array
-let wordsArray = sentence.split(" ");
-console.log("Split by space:", wordsArray);
+// console.log(str.length);
 
-// Joining an array back to a string
-let joinedString = wordsArray.join("-");
-console.log("Joined by dash:", joinedString);
+
+
+// let str = "Rohit Negi is a bad teacher Negi is";
+
+// console.log(str.replaceAll("Negi", "maggi"));
+
+// console.log(str.substring(-2));
+// console.log(str.slice(-2));
+// username:   rohit
+
+// let a = "   Rohit Negi ";
+
+// console.log(a.trim());
+
+
+// let data = "Amir Rohit Anuj Anjali";
+
+// console.log(data.split(' '))
+
+
+
+
+
+
+
+
+
+
+// console.log(str.lastIndexOf("Negi"));
+// console.log(str.includes('oht'));
+
+// console.log(str.slice(2,8));
+// console.log(str.slice(2));
+
+
+// function add(num1, num2){
+//     return num1+num2;
+// }
+
+
+
+// console.log(add(2,3));
